@@ -7,3 +7,20 @@ ul {
     width: 100%;
     height: auto;
 }
+
+.actress-nationality,
+.actor-nationality {
+    font-style: italic;
+    font-size: 15px;
+}
+
+.actress-awards,
+.actor-awards {
+    font-weight: bold;
+}
+
+
+.actress-biography,
+.actor-biography {
+    font-family: Arial, Helvetica, sans-serif
+}

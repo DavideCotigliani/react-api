@@ -22,5 +22,6 @@ Numero minimo di push: 8
 
 BONUS 1 :rilassato:
 Stampare sia una lista delle attrici che degli attori, separatamente.
+
 BONUS 2 :occhiali_da_sole:
 Stampare un’unica lista che contiene attori e attrici insieme!
