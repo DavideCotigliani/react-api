@@ -17,11 +17,12 @@ function App() {
 
   return (
     <>
-      {/* <ul>
+      <ul className='card-group'>
         {actresses.map((actress) => (
-          <li key={actress.id}>{actress.id}</li>
+          <li key={actress.id} className='card-group-item'>{actress.name} {actress.birth_year}
+            {actress.nationality} {actress.biography} {actress.image} {actress.awards}</li>
         ))}
-      </ul> */}
+      </ul>
     </>
   )
 }

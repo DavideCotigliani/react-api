@@ -15,6 +15,7 @@ nazionalità
 biografia
 immagine
 riconoscimenti
+
 MILESTONE 3
 Mostriamo in pagina una card per ciascun attore, con grafica a piacimento!
 Numero minimo di push: 8
