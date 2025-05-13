@@ -6,6 +6,7 @@ Lista di Attrici: https://lanciweb.github.io/demo/api/actresses/
 Lista di Attori: https://lanciweb.github.io/demo/api/actors/
 MILESTONE 1
 Al caricamento dell'applicazione, recuperiamo la lista degli attori e delle attrici dalle API e stampiamoli in console.
+
 MILESTONE 2
 Prepariamo una card per ciascun attore/attrice, mostrandone le seguenti informazioni:
 nome
